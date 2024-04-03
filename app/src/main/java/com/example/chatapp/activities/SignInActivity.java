@@ -30,7 +30,7 @@ public class SignInActivity extends AppCompatActivity {
         /**call button sign in to add data*/
 //        binding.buttonSignIn.setOnClickListener(v -> addDataToFireStore());
     }
-    
+
     /**add users*/
     /*private void addDataToFireStore(){
         FirebaseFirestore database = FirebaseFirestore.getInstance();
